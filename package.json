@@ -1,0 +1,7 @@
+{
+  "name": "Raid Bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
